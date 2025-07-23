@@ -2,7 +2,7 @@
 <h3 align="center">🚀 AI Developer | 🛡️ CTF Player | 🎯 Hackathon Winner | 📊 Data Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=AI+%26+Cybersecurity+Enthusiast;Hackathon+%2B+CTF+Winner;FastAPI+%2B+LangChain+%2B+RAG+Ninja" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=AI+%26+Cybersecurity+Enthusiast;Hackathon+%2B+CTF+Winner;" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,12 +10,12 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| **[NL2SQL-AI-Assistant](https://github.com/sujalmh)** | Agentic system for NL → SQL + charts, voice input, PDF reports | `FastAPI`, `Next.js`, `LangChain`, `MySQL` |
-| **Surveillance Query System** | Natural Language query on CCTV using RAG + YOLO | `YOLO`, `RAG`, `FastAPI`, `Next.js` |
-| **Vulnerability Monitoring Tool** | AI + Scraper for real-time IT/OT CVE alerts from OEMs | `Scrapy`, `NLP`, `LangChain`, `Email Alerts` |
-| **UPI QR All-in-One App** | Unified UPI QR scanner and payment router | `React Native`, `Django`, `PostgreSQL` |
-| **Portfolio Optimizer** | Flask web app to analyze, build and optimize portfolios | `Flask`, `Finance APIs`, `Plotly` |
-| **LinkedIn Post Generator** | Comment sentiment analysis + auto-post generation | `NLP`, `ML`, `BeautifulSoup`, `Pandas` |
+| **[NL2SQL-AI-Assistant](https://github.com/sujalmh/NL2SQL-AI-Assistant)** | Agentic system for NL → SQL + charts, voice input, PDF reports | `FastAPI`, `Next.js`, `LangChain`, `MySQL` |
+| **[Surveillance Query System](https://github.com/sujalmh/NL2SQL-AI-Assistant)** | Natural Language query on CCTV using RAG + YOLO | `YOLO`, `RAG`, `FastAPI`, `Next.js` |
+| **[Vulnerability Monitoring Tool](https://github.com/sujalmh/oem-vulnerabilities-monitoring-and-alert-system)** | AI + Scraper for real-time IT/OT CVE alerts from OEMs | `Scrapy`, `NLP`, `LangChain`, `Email Alerts` |
+| **[File QnA & Retrieval Engine](https://github.com/sujalmh/NL2SQL-AI-Assistant)** | File chat system for QA & retrieval from document chunks	 | `FastAPI`, `LangChain`, `Milvus`, `SentenceTransformers` |
+| **[Portfolio Optimizer](https://github.com/sujalmh/StockOpt)** | Flask web app to analyze, build and optimize portfolios | `Flask`, `Finance APIs`, `Plotly` |
+| **[LinkedIn Post Generator](https://github.com/sujalmh/linkedin-sentiment-analysis-post-gen)** | Comment sentiment analysis + auto-post generation | `NLP`, `ML`, `BeautifulSoup`, `Pandas` |
 
 ---
 
