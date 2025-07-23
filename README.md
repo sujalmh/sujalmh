@@ -1,69 +1,94 @@
 <h1 align="center">Hi there 👋, I'm Sujal M H</h1>
-<h3 align="center">🚀 Developer | 🛡️ CTF Player | 🧠 AI + Cybersecurity Enthusiast</h3>
+<h3 align="center">🚀 AI Developer | 🛡️ CTF Player | 🎯 Hackathon Winner | 📊 Data Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Passionate+about+Cybersecurity+%26+AI;Hackathon+%F0%9F%94%A5+%2B+CTF+Winner;Building+Cool+AI+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=AI+%26+Cybersecurity+Enthusiast;Hackathon+%2B+CTF+Winner;FastAPI+%2B+LangChain+%2B+RAG+Ninja" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🏆 Achievements
 
-- 🥇 **Hackathon Champion** – Won multiple national-level hackathons with solutions in AI, NLP, Surveillance & FinTech.
-- 🥈 **CTF Winner** – Podium finishes in cybersecurity CTFs (Web, Pwn, Crypto, Forensics).
-- 👨‍💻 **Top Competitor** – Active participant in programming competitions.
+- 🥇 **1st Place** – SeaTF @ NIT Karnataka (Reverse Engineering, Crypto, Web, Forensics)
+- 🥇 **1st Place** – ZERO DAY CTF sponsored by NULL Kolkata & PWNEDLABS
+- 🥉 **3rd Place** – ACN CTF @ Amrita CyberNation
+- 🥉 **3rd Place** – KLE GIT × IIT Bombay CTF
+- 🏁 **Finalist** – Smart India Hackathon (SIH) 2024
+- 🧑‍💻 **Founder** – Crypton Club, conducted national-level CTF: Hack Heist 2.0
 
 ---
 
-### 💻 Projects & Hackathon Builds
+### 💼 Internship Experience
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🧠 [AI-Powered SQL Assistant](https://github.com/yourprofile/sql-assistant) | Natural language to SQL with visualizations and agent reasoning | `LangChain`, `FastAPI`, `React`, `Milvus` |
-| 🛰️ [Geospatial AI Platform](https://github.com/yourprofile/geo-ai) | AOI-based or NL query → fetches + visualizes spatial data | `Agentic AI`, `Vector DB`, `GIS APIs` |
-| 🐍 [PDF QnA & Retrieval Engine](https://github.com/yourprofile/pdf-qna) | PDF chat system for QA & retrieval from document chunks | `FastAPI`, `LangChain`, `Milvus`, `SentenceTransformers` |
-| 🎯 [CTF Toolkit](https://github.com/yourprofile/ctf-toolkit) | Scripts & exploits for solving CTFs | `pwntools`, `Python`, `Ghidra` |
-| 🤖 [All-in-One UPI Scanner](https://github.com/yourprofile/upi-scanner) | Scans QR and suggests UPI apps for unified payments | `React Native`, `Django`, `PostgreSQL` |
+**AI Intern @ Tata Group** (Feb 2025 – Aug 2025)  
+• Built AI-based PDF chat system using LangChain RAG  
+• Developed NL2SQL Agent with CoT reasoning + parallel SQL execution  
+• Designed CI/CD pipeline, containerized with Docker  
+• Automated economic data acquisition from government sources
 
 ---
 
-### 🔐 Cybersecurity & CTF
+### 🚀 Featured Projects
 
-- 🛠️ Tools: `pwntools`, `Burp Suite`, `Ghidra`, `IDA`, `Wireshark`, `Volatility`
-- 👾 Favorite CTF Categories: Web Exploitation, Pwn, Crypto
-- 🔍 Check out my CTF writeups: [📚 Writeups Repo](https://github.com/yourprofile/ctf-writeups)
+| Project | Description | Stack |
+|--------|-------------|-------|
+| **[NL2SQL-AI-Assistant](https://github.com/sujalmh)** | Agentic system for NL → SQL + charts, voice input, PDF reports | `FastAPI`, `Next.js`, `LangChain`, `MySQL` |
+| **Surveillance Query System** | Natural Language query on CCTV using RAG + YOLO | `YOLO`, `RAG`, `FastAPI`, `Next.js` |
+| **Vulnerability Monitoring Tool** | AI + Scraper for real-time IT/OT CVE alerts from OEMs | `Scrapy`, `NLP`, `LangChain`, `Email Alerts` |
+| **UPI QR All-in-One App** | Unified UPI QR scanner and payment router | `React Native`, `Django`, `PostgreSQL` |
+| **Portfolio Optimizer** | Flask web app to analyze, build and optimize portfolios | `Flask`, `Finance APIs`, `Plotly` |
+| **LinkedIn Post Generator** | Comment sentiment analysis + auto-post generation | `NLP`, `ML`, `BeautifulSoup`, `Pandas` |
 
 ---
 
-### 🌐 Tech Stack
+### 💻 Tech Toolbox
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react,js,html,css,django,mysql,postgresql,mongodb,linux,bash,git,cpp,tailwind" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,django,flask,postgresql,mysql,docker,azure,js,html,css,git,bash" />
 </p>
+
+---
+
+### 🔐 Cybersecurity Stack
+
+- 🧰 Tools: `pwntools`, `Wireshark`, `Ghidra`, `Burp Suite`, `IDA Pro`, `Volatility`
+- 🧠 Interests: Reverse Engineering, Web Exploitation, Forensics, Crypto
+- 📂 Writeups coming soon: [CTF Writeups Repo](https://github.com/sujalmh)
+
+---
+
+### 📜 Certifications
+
+- 🧮 [Top 1%] NPTEL – Python for Data Science (IIT Madras)
+- 💡 [Top 5%] NPTEL – Problem Solving in C (IIT Kharagpur)
+- 🛡️ Google Cybersecurity Specialization (Coursera)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourprofile&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourprofile&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sujalmh&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalmh&layout=compact&theme=radical" height="180"/>
 </p>
 
 ---
 
-### 📫 Connect With Me
+### 📫 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+  <a href="mailto:sujalmh9@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/sujalmh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://github.com/sujalmh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-> 💡 *Always hacking. Always learning. Always shipping.*
+> 💭 *“Creating secure, scalable AI systems with a hacker’s mindset.”*
 
