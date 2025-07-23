@@ -6,15 +6,16 @@
 </p>
 
 ---
+### 🚀 Featured Projects
 
-### 🏆 Achievements
-
-- 🥇 **1st Place** – SeaTF @ NIT Karnataka (Reverse Engineering, Crypto, Web, Forensics)
-- 🥇 **1st Place** – ZERO DAY CTF sponsored by NULL Kolkata & PWNEDLABS
-- 🥉 **3rd Place** – ACN CTF @ Amrita CyberNation
-- 🥉 **3rd Place** – KLE GIT × IIT Bombay CTF
-- 🏁 **Finalist** – Smart India Hackathon (SIH) 2024
-- 🧑‍💻 **Founder** – Crypton Club, conducted national-level CTF: Hack Heist 2.0
+| Project | Description | Stack |
+|--------|-------------|-------|
+| **[NL2SQL-AI-Assistant](https://github.com/sujalmh)** | Agentic system for NL → SQL + charts, voice input, PDF reports | `FastAPI`, `Next.js`, `LangChain`, `MySQL` |
+| **Surveillance Query System** | Natural Language query on CCTV using RAG + YOLO | `YOLO`, `RAG`, `FastAPI`, `Next.js` |
+| **Vulnerability Monitoring Tool** | AI + Scraper for real-time IT/OT CVE alerts from OEMs | `Scrapy`, `NLP`, `LangChain`, `Email Alerts` |
+| **UPI QR All-in-One App** | Unified UPI QR scanner and payment router | `React Native`, `Django`, `PostgreSQL` |
+| **Portfolio Optimizer** | Flask web app to analyze, build and optimize portfolios | `Flask`, `Finance APIs`, `Plotly` |
+| **LinkedIn Post Generator** | Comment sentiment analysis + auto-post generation | `NLP`, `ML`, `BeautifulSoup`, `Pandas` |
 
 ---
 
@@ -28,16 +29,14 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🏆 Achievements
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| **[NL2SQL-AI-Assistant](https://github.com/sujalmh)** | Agentic system for NL → SQL + charts, voice input, PDF reports | `FastAPI`, `Next.js`, `LangChain`, `MySQL` |
-| **Surveillance Query System** | Natural Language query on CCTV using RAG + YOLO | `YOLO`, `RAG`, `FastAPI`, `Next.js` |
-| **Vulnerability Monitoring Tool** | AI + Scraper for real-time IT/OT CVE alerts from OEMs | `Scrapy`, `NLP`, `LangChain`, `Email Alerts` |
-| **UPI QR All-in-One App** | Unified UPI QR scanner and payment router | `React Native`, `Django`, `PostgreSQL` |
-| **Portfolio Optimizer** | Flask web app to analyze, build and optimize portfolios | `Flask`, `Finance APIs`, `Plotly` |
-| **LinkedIn Post Generator** | Comment sentiment analysis + auto-post generation | `NLP`, `ML`, `BeautifulSoup`, `Pandas` |
+- 🥇 **1st Place** – SeaTF @ NIT Karnataka (Reverse Engineering, Crypto, Web, Forensics)
+- 🥇 **1st Place** – ZERO DAY CTF sponsored by NULL Kolkata & PWNEDLABS
+- 🥉 **3rd Place** – ACN CTF @ Amrita CyberNation
+- 🥉 **3rd Place** – KLE GIT × IIT Bombay CTF
+- 🏁 **Finalist** – Smart India Hackathon (SIH) 2024
+- 🧑‍💻 **Founder** – Crypton Club, conducted national-level CTF: Hack Heist 2.0
 
 ---
 
@@ -68,7 +67,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujalmh&show_icons=true&theme=radical" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalmh&layout=compact&theme=radical" height="180"/>
 </p>
 
@@ -87,8 +85,3 @@
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
----
-
-> 💭 *“Creating secure, scalable AI systems with a hacker’s mindset.”*
-
