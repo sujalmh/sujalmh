@@ -12,7 +12,7 @@
 |--------|-------------|-------|
 | **[NL2SQL-AI-Assistant](https://github.com/sujalmh/NL2SQL-AI-Assistant)** | Agentic system for NL → SQL + charts, voice input, PDF reports | `FastAPI`, `Next.js`, `LangChain`, `MySQL` |
 | **[Surveillance Query System](https://github.com/sujalmh/NL2SQL-AI-Assistant)** | Natural Language query on CCTV using RAG + YOLO | `YOLO`, `RAG`, `FastAPI`, `Next.js` |
-| **[Vulnerability Monitoring Tool](https://github.com/sujalmh/oem-vulnerabilities-monitoring-and-alert-system)** | AI + Scraper for real-time IT/OT CVE alerts from OEMs | `Scrapy`, `NLP`, `LangChain`, `Email Alerts` |
+| **[Vulnerability Monitoring Tool](https://github.com/sujalmh/oem-vulnerabilities-monitoring-and-alert-system)** | AI + Scraper for real-time IT/OT CVE alerts from OEMs | `Playwright`, `NLP`, `LangChain`, `Email Alerts` |
 | **[File QnA & Retrieval Engine](https://github.com/sujalmh/NL2SQL-AI-Assistant)** | File chat system for QA & retrieval from document chunks	 | `FastAPI`, `LangChain`, `Milvus`, `SentenceTransformers` |
 | **[Portfolio Optimizer](https://github.com/sujalmh/StockOpt)** | Flask web app to analyze, build and optimize portfolios | `Flask`, `Finance APIs`, `Plotly` |
 | **[LinkedIn Post Generator](https://github.com/sujalmh/linkedin-sentiment-analysis-post-gen)** | Comment sentiment analysis + auto-post generation | `NLP`, `ML`, `BeautifulSoup`, `Pandas` |
