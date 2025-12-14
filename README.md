@@ -21,7 +21,7 @@
 
 ### 💼 Internship Experience
 
-**AI Intern @ Tata Group** (Feb 2025 – Aug 2025)  
+**AI Intern @ Tata Group** (Feb 2025 – Oct 2025)  
 • Built AI-based PDF chat system using LangChain RAG  
 • Developed NL2SQL Agent with CoT reasoning + parallel SQL execution  
 • Designed CI/CD pipeline, containerized with Docker  
